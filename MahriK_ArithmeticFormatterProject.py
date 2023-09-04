@@ -1,5 +1,4 @@
-# Owner: Mahri Kadyrova
-# Bioengineering alumni
+# Owner: MK
 # This is the Arithmetic formatter project based off the FreeCodeCamp projects and "Scientific Computing with Python" course  
 
 def arithmetic_arranger(problems, option=False):
